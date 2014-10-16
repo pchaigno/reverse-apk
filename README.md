@@ -19,3 +19,8 @@ The last tool, dex2jar, will extract the `.class` files from the `.dex` file.
 
 The script will pause before each download and ask the user if he want to continue or manually download the tool.
 This step will be skipped if the tools are already present in the same directory as the script.
+
+
+### Contact
+
+For any suggestion or bug report, please contact me at paul.chaignon@gmail.com.
