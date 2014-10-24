@@ -1,3 +1,19 @@
+*.apk
+
+apktool.jar
+dex2jar.zip
+dex2jar-0.0.9.15/
+smali.jar
+
+out.dex
+apk-dir
+app
+app.zip
+
+
+########################
+# Python
+########################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
