@@ -1,7 +1,7 @@
 Reverse-APK
 ===========
 
-Extract the `.class` files from an APK using apktool, Smali and dex2jar
+Extract the `.class` files from an APK using apktool, Smali and dex2jar.<br/>
 The tools required will be downloaded by the script.
 
 
