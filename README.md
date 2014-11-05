@@ -8,7 +8,7 @@ The tools required will be downloaded by the script.
 ### Usage
 
 ```shell
-$ wget -O reverse-apk.py https://github.com/pchaigno/Reverse-APK/blob/master/reverse-apk.py
+$ wget -O reverse-apk.py https://raw.githubusercontent.com/pchaigno/Reverse-APK/master/reverse-apk.py
 $ python3 reverse-apk.py <apk file>
 ```
 
